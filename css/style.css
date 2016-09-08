@@ -74,5 +74,14 @@ li {
 	h2, p, li {
 		margin-left: 40px;
 		text-align: left;
+		padding-right: 40px;
+	}
+
+	.paper {
+		width: 100%;
+	}
+
+	a {
+		margin: 15px 1px;
 	}
 }
